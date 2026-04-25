@@ -1,0 +1,26 @@
+{
+    "movies": [
+        {
+            "id": "1",
+            "title": "forsaj 10",
+            "year": "2023",
+            "img": "https://www.soyuz.ru/public/uploads/files/5/7623958/1005x558_202305211232174da44da68c.jpg",
+            "desc": "forsajning suratga olingan oxirgi qismi"
+        },
+        {
+            "id": "2",
+            "title": "Interstellar",
+            "year": "2014",
+            "img": "https://upload.wikimedia.org/wikipedia/ru/c/c3/Interstellar_2014.jpg",
+            "desc": "Insoniyatning yangi uy qidirib koinot bo'ylab qilgan sayohati."
+        }
+    ],
+    "users": [
+        {
+            "id": "1",
+            "username": "admin",
+            "password": "123"
+        }
+    ],
+    "$schema": "./node_modules/json-server/schema.json"
+}
