@@ -8,7 +8,7 @@ import MovieDetail from './components/MovieDetail';
 interface Movie {
   id: number;
   title: string;
-  year: number;
+  year: string;
   img: string;
   desc: string;
 }
